@@ -1,3 +1,16 @@
 # streamlit-simple-page
 
-## 짱 편한 Streamlit .
+## install 
+```
+(base) conda create --name streamlit python=3.11
+(base) conda activate streamlit
+(streamlit) pip install streamlit 
+```
+
+## Run
+```
+(streamlit) python run.py
+```
+
+
+
